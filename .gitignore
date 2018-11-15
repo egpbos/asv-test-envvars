@@ -1,3 +1,7 @@
+# asv
+.asv/
+asv-test-envvars/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
